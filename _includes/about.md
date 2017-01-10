@@ -1,0 +1,3 @@
+I am a third-year PhD candidate at Ohio State University. I have worked on stars since coming to OSU, but did extragalactic astronomy (AGN, dark energy, weak lensing) in undergrad at Princeton.
+
+I run, yoga, and, as of late, watch 30 Rock.

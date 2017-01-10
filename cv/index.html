@@ -2,4 +2,6 @@
 layout: default
 title: C.V.
 ---
-{% include cv.md %}
+
+{% capture my_include %}{% include cv.md %}{% endcapture %}
+{{ my_include | markdownify }}
