@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: default
 title: C.V.
 ---
 I received A.B. magna cum laude from Princeton University in Astrophysical Sciences, where I worked with [Michael Strauss](http://www.astro.princeton.edu/~strauss/index.html) on identifying AGN-galaxy strong lenses in SDSS; [Richard Gott](http://web.astro.princeton.edu/people/j-richard-gott-iii) on predicting Slow-Roll dark energy constraints with Planck; and [David Spergel](http://www.astro.princeton.edu/~dns/) on AGN-galaxy magnification weak lensing in WISE and BOSS.
