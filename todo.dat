@@ -7,3 +7,14 @@ https://github.com/treyhunner/resume
 
 search for emojis:
 http://unicode.party/
+
+add a talks tab
+
+add photos with jekyll-slidshow
+
+to make thumbnails do the following:
+ext=jpg
+for file in *${ext}; do
+file=$(basename $file .${ext})
+convert ${file}.${ext} -resize 25% ${file}-thumb.${ext}
+done
