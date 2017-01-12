@@ -1,0 +1,12 @@
+---
+layout: default
+---
+<!-- Sydney photos-->
+<div id="content">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<ul>
+  {% directory path: assets/img/sydney_2015 exclude: -thumb %}
+  <li><img alt="sydney_2015_photo" src="/assets/img/sydney_2015/{{ file.slug }}-thumb.jpg" data-fullimage="{{ file.url }}"></li>
+    {% enddirectory %}
+</ul>
+</div>
