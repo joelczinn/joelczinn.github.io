@@ -18,3 +18,8 @@ for file in *${ext}; do
 file=$(basename $file .${ext})
 convert ${file}.${ext} -resize 25% ${file}-thumb.${ext}
 done
+
+################################################################
+# how I push static files to github
+################################################################
+http://tongueroo.com/articles/how-to-use-any-jekyll-plugins-on-github-pages-with-circleci/

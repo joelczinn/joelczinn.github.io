@@ -1,3 +1,4 @@
 name: Joel C. Zinn
 markdown: kramdown
-
+gems:
+   - directory-tag

@@ -6,7 +6,7 @@ date: 2017-01-07
 
 My first AAS:
 
-1. presented a [talk](https://drive.google.com/open?id=0B3Mv4fy3AaA_VXRtTHZyN2VmNjA) as part of the Galactic Archaeology with Kepler and K2 special session organized by Jennifer Johnson (OSU), and featuring Marc Pinsonneault's (OSU) discussion of stellar ages
+1. presented a [talk](/talks/2017-01-06-AAS-229.pptx) as part of the Galactic Archaeology with Kepler and K2 special session organized by Jennifer Johnson (OSU), and featuring Marc Pinsonneault's (OSU) discussion of stellar ages
 
 2. attended various other talks, including collaborator [Anupreeta More](https://sites.google.com/site/anupreetamore/home)'s (IPMU) talk on double lenses and quads in HSC -- very cool!
 
