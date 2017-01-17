@@ -4,13 +4,12 @@ as seen on http://user.astro.columbia.edu/~seclark/#cv
 
 also CV layout from
 https://github.com/treyhunner/resume
+################################################################
+# resume in assets is copied from ~/packages/resume/zinn_resume.pdf
+################################################################
 
 search for emojis:
 http://unicode.party/
-
-add a talks tab
-
-add photos with jekyll-slidshow
 
 to make thumbnails do the following:
 ext=jpg
@@ -19,7 +18,22 @@ file=$(basename $file .${ext})
 convert ${file}.${ext} -resize 25% ${file}-thumb.${ext}
 done
 
+get template from here?
+https://templated.co/
+
+as exampled in this site
+http://localgroup.ps.uci.edu/oelbert/index.html
+
+add outreach tab and put
+http://planetarium.osu.edu/public-programs
+and astronomy on tap there
+
+request to update this to make it Stephan: http://astronomyontap.org/locations/columbus-oh/
+make AoT website?
+
+
+
 ################################################################
-# how I push static files to github
+# how to push static files to github
 ################################################################
 http://tongueroo.com/articles/how-to-use-any-jekyll-plugins-on-github-pages-with-circleci/

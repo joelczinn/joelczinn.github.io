@@ -2,5 +2,4 @@ I received A.B. magna cum laude from Princeton University in Astrophysical Scien
 
 I am currently a PhD candidate in the Astronomy department at Ohio State University working with [Dennis Stello](https://www.physics.unsw.edu.au/staff/dennis-stello) and [Marc Pinsonneault](http://www.astronomy.ohio-state.edu/~pinsono/) on red giant asteroseismology with Kepler and K2, most recently in the context of the [Galactic Archaeology Programme](http://www.physics.usyd.edu.au/k2gap/).
 
-Full C.V. to come...
-<!--[Full C.V.]({{ site.url }}/assets/cv.pdf)-->
+[Full C.V.]({{ site.url }}/assets/pdf/zinn_cv.pdf)
