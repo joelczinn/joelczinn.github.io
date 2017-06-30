@@ -1,3 +1,31 @@
+
+
+to make the slideshows,
+need to make a directory like:
+assets/img/NAME
+
+with photos ending in .jpg
+
+then cd to assets/img/NAME
+and run
+../../../tmp/make_slideshow.sh 15
+( see https://sermoa.wordpress.com/2010/04/05/a-quick-way-to-resize-images-in-linux/ for logic behind the resizing commands)
+to make thumbnails and down-size the images
+
+then look at an example index.html (e.g., personal/LA_2017/index.html)
+
+
+and replace the filenames manually. MAKE SURE YOU ARE USING THE *_1024* FILES MADE BY make_slideshow.sh -- these will be roughly correct sizes for a browser.
+finally, add the appropriate lines to personal/index.md to make the link to the slideshow.
+
+################################################################
+# to preview the site:
+################################################################
+bundle exec jekyll serve
+
+/Users/jzinn/website/joelczinn.github.io/assets/pdf/zinn_cv.pdf
+cp ~/packages/resume/zinn_resume.pdf /Users/jzinn/website/joelczinn.github.io/assets/pdf/zinn_cv.pdf
+
 look in to the following formats:
 https://html5up.net/
 as seen on http://user.astro.columbia.edu/~seclark/#cv
