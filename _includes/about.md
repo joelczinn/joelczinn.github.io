@@ -1,1 +1,7 @@
-I am a postdoc at the University of New South Wales, working with Dennis Stello on red giant asteroseismology, with applications to Galactic archaeology.
+I am currently a postdoc at the University of New South Wales, working with [Dennis Stello](https://www.physics.unsw.edu.au/staff/dennis-stello) on red giant asteroseismology with Kepler, K2, and TESS, most recently in the context of the [Galactic Archaeology Programme](http://www.physics.usyd.edu.au/k2gap/). I am interested in testing stellar models with the asteroseismic sample of K2, and am currently working on doing just that.
+
+For those that use *Gaia* Data Release 2 in their work, see [my paper](https://arxiv.org/abs/1805.02650) on how to account for parallax systematics.
+
+For those interested in stellar classification in the era of big photometric surveys like LSST, see [this paper](https://arxiv.org/abs/1612.04834), where we show that Gaussian processes are useful for modeling and classifying quasi-periodic stars.
+
+I completed my Ph.D. under the supervision of [Marc Pinsonneault](http://www.astronomy.ohio-state.edu/~pinsono/) at Ohio State University, where we worked at the intersection of Kepler, K2, and Gaia. We simultaneously characterized Gaia parallax systematics and tested asteroseismic scaling relations. I received A.B. magna cum laude from Princeton University in Astrophysical Sciences, where I worked with [Michael Strauss](http://www.astro.princeton.edu/~strauss/index.html) on identifying AGN-galaxy strong lenses in SDSS; [Richard Gott](http://web.astro.princeton.edu/people/j-richard-gott-iii) on predicting Slow-Roll dark energy constraints with Planck; and [David Spergel](http://www.astro.princeton.edu/~dns/) on AGN-galaxy magnification weak lensing in WISE and BOSS.
