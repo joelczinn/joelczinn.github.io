@@ -31,10 +31,13 @@
 						       class="active">About</a></li>
 						<li><a href="#two" class="active">Bio</a></li>
 						<li><a href="#three">Outreach</a></li>
+<<<<<<< HEAD
 						<li><a href="#four">Research
 						    Projects</a></li>
-						<li><a href="docs/zinn_cv.pdf"
-						>C.V.</a></li>
+						<li><a href="docs/zinn_cv.pdf">C.V.</a></li>
+=======
+						<li><a href="#four">Research Projects</a></li>
+>>>>>>> html5up first commit
 						<!-- <li><a href="#four">Contact</a></li> -->
 					</ul>
 				</nav>
@@ -114,13 +117,20 @@
 							</section>
 						<!-- Two -->
 							<section id="two">
+<<<<<<< HEAD
 								<!-- <div class="image main" data-position="center"> -->
 								<!-- 	<img src="images/MW_edgeon_unannotate.jpg" alt="" /> -->
 								<!-- </div> -->
+=======
+								<div class="image main" data-position="center">
+									<img src="images/MW_edgeon_unannotate.jpg" alt="" />
+								</div>
+>>>>>>> html5up first commit
 								<div class="container">
 									<header class="major">
 										<h3>Bio</h3>
 									</header>
+<<<<<<< HEAD
 Before joining the AMNH, I worked as a postdoc at the University of
 									New
 									South
@@ -134,6 +144,9 @@ Before joining the AMNH, I worked as a postdoc at the University of
 									TESS
 									asteroseismology. I
 									completed my Ph.D. under the supervision
+=======
+I completed my Ph.D. under the supervision
+>>>>>>> html5up first commit
 									of <a href="http://www.astronomy.ohio-state.edu/~pinsono/">Marc
 									Pinsonneault</a>
 									at
@@ -150,6 +163,7 @@ Before joining the AMNH, I worked as a postdoc at the University of
 									Kepler,
 									K2,
 									and
+<<<<<<< HEAD
 									Gaia;
 									I
 									finished
@@ -160,6 +174,9 @@ Before joining the AMNH, I worked as a postdoc at the University of
 									<a href="https://www.kitp.ucsb.edu/apply/fellowships/graduate-fellowship-program">KITP
 									Graduate
 									Fellow</a>. We
+=======
+									Gaia. We
+>>>>>>> html5up first commit
 									simultaneously
 									characterized
 									Gaia
@@ -170,11 +187,14 @@ Before joining the AMNH, I worked as a postdoc at the University of
 									asteroseismic
 									scaling
 									relations. I
+<<<<<<< HEAD
 									was
 									a
 									KITP
 									fellow
 									I
+=======
+>>>>>>> html5up first commit
 									received an
 									A.B. magna
 									cum
@@ -341,15 +361,12 @@ Before joining the AMNH, I worked as a postdoc at the University of
 												         15
 												         microarcseconds
 												         in
-												         <a href="https://ui.adsabs.harvard.edu/abs/2021arXiv210107252Z/abstract"
-												         style="color:#4acaa8;text-decoration:none;">EDR3</a>,
+												         <a href="https://ui.adsabs.harvard.edu/abs/2021arXiv210107252Z/abstract"style="color:#4acaa8;text-decoration:none;">EDR3</a>,
 												         after applying
 												         the
 												         Gaia
 												         team's
-												         <a href="https://gitlab.com/icc-ub/public/gaiadr3_zeropoint/-/tree/master"
-												         style="color:#4acaa8;text-decoration:none;">zero-point
-												         corrections</a>.
+												         <a href="https://gitlab.com/icc-ub/public/gaiadr3_zeropoint/-/tree/master"style="color:#4acaa8;text-decoration:none;">zero-point corrections</a>.
 												         												          </p>
 											</div>
 										</article>
@@ -369,7 +386,7 @@ Before joining the AMNH, I worked as a postdoc at the University of
 										</article>
 
 
-		
+																				</article>
 										<article>
 											<a href="#" class="image"><img src="images/radius_plot.jpg" alt="" /></a>
 											<div class="inner">
@@ -401,6 +418,7 @@ Before joining the AMNH, I worked as a postdoc at the University of
 								</div>
 							</section>
 
+<<<<<<< HEAD
 
 						<!-- Four -->
 							<!-- <section id="four"> -->
@@ -410,6 +428,8 @@ Before joining the AMNH, I worked as a postdoc at the University of
 							<!-- 		</div> -->
 							<!-- 		</section> -->
 
+=======
+>>>>>>> html5up first commit
 						<!-- Four -->
 							<!-- <section id="four"> -->
 							<!-- 	<div class="container"> -->
@@ -769,6 +789,7 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 					<section id="footer">
 						<div class="container">
 							<ul class="copyright">
+<<<<<<< HEAD
 								<!-- <li>&copy;
 							    -->
 								<!-- if
@@ -783,6 +804,11 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 								below <li>-->
 								<li>
 								This
+=======
+								<li>&copy;
+								Joel
+								C. Zinn. This
+>>>>>>> html5up first commit
 								material
 								is
 								based
@@ -819,11 +845,17 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 								of the
 								National
 								Science
+<<<<<<< HEAD
 								Foundation.</li><li>
 										   Image
 								courtesy
 								of
 								ESA/Gaia/DPAC</li><li>Design: <a href="http://html5up.net">HTML5
+=======
+								Foundation. All
+								rights
+								reserved.</li><li>Design: <a href="http://html5up.net">HTML5
+>>>>>>> html5up first commit
 							      UP</a></li>
 								<!-- uncomment
 								the
@@ -841,7 +873,7 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 								(which
 								are
 								free
-								...
+								---
 								the
 								ones
 								referenced
