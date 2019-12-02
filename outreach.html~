@@ -1,0 +1,19 @@
+---
+layout: default
+title: Joel C. Zinn
+---
+
+  <h1> {{ page.title }} </h1>
+  <div class="my_face">
+    <!--<img class="img-circle" alt="Joel C. Zinn" src="assets/img/chicago_run-small-trim.jpg">-->
+    <img class="img-circle" alt="Joel C. Zinn" src="tmp/IMG_0648-thumb-trim.jpg">
+  </div>
+  
+  <div class="tag">
+    <p>I study stars with asteroseismology and stellar structure
+    models at the University of New South Wales. Check out my <a href="/research">research</a>.</p>
+    </div>
+
+  
+
+
