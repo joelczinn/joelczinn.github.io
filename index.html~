@@ -20,14 +20,18 @@
 					<h1 id="logo"><a href="#">Joel
 					C. Zinn</a></h1>
 					<p>Astronomer looking at sound
-					waves in stars and chemical enrichment in
-					the Galaxy</p>
+					waves in stars and
+					reconstructing the
+					chemodynamics of the
+					Galaxy </p>
 				</header>
 				<nav id="nav">
 					<ul>
-						<li><a href="#one" class="active">About</a></li>
-						<li><a href="#two">Outreach</a></li>
-						<li><a href="#three">Research Projects</a></li>
+						<li><a href="#one"
+						       class="active">About</a></li>
+						<li><a href="#two" class="active">Bio</a></li>
+						<li><a href="#three">Outreach</a></li>
+						<li><a href="#four">Research Projects</a></li>
 						<!-- <li><a href="#four">Contact</a></li> -->
 					</ul>
 				</nav>
@@ -37,7 +41,7 @@
 						<!-- <li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li> -->
 						<li><a href="https://twitter.com/joelczinn" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
 						<li><a href="https://github.com/joelczinn/" class="icon brands fa-github"><span class="label">Github</span></a></li>
-						<li><a href="mailto:j.zinn@unsw.edu.au" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+						<li><a href="mailto:jzinn@amnh.org" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
 					</ul>
 				</footer>
 			</section>
@@ -48,22 +52,22 @@
 				<!-- Main -->
 					<div id="main">
 
-						<!-- One -->
-							<section id="one">
+
+														<section id="one">
 								<div class="image main" data-position="center">
 									<img src="images/MW_edgeon_unannotate.jpg" alt="" />
 								</div>
 								<div class="container">
 									<header class="major">
-										<h2>About me</h2>
+										<h3>About me</h3>
 										<p>Astronomer
 										and
 										public
 										  educator
 										</p>
 									</header>
-									<p>I
-									am
+									<p>Currently,
+									I'm
 									an
 									NSF
 									Astronony
@@ -90,8 +94,7 @@
 									parameters
 									for
 									Galactic
-									archaeology. I
-									am
+									archaeology. I'm
 									also
 									interested
 									in
@@ -106,15 +109,143 @@
 									</p>
 								</div>
 							</section>
-
 						<!-- Two -->
 							<section id="two">
+<<<<<<< HEAD
+								<div class="image main" data-position="center">
+									<img src="images/MW_edgeon_unannotate.jpg" alt="" />
+								</div>
+=======
+								<!-- <div class="image main" data-position="center"> -->
+								<!-- 	<img src="images/MW_edgeon_unannotate.jpg" alt="" /> -->
+								<!-- </div> -->
+>>>>>>> html5up first commit
+								<div class="container">
+									<header class="major">
+										<h3>Bio</h3>
+									</header>
+<<<<<<< HEAD
+I completed my Ph.D. under the supervision
+=======
+Before joining the AMNH, I worked as a postdoc at the University of
+									New
+									South
+									Wales
+									with
+									<a href="http://www.physics.usyd.edu.au/~stello/">Dennis
+									Stello</a>
+									on
+									K2
+									and
+									TESS
+									asteroseismology. I
+									completed my Ph.D. under the supervision
+>>>>>>> html5up first commit
+									of <a href="http://www.astronomy.ohio-state.edu/~pinsono/">Marc
+									Pinsonneault</a>
+									at
+									Ohio
+									State
+									University,
+									where
+									we
+									worked
+									at
+									the
+									intersection
+									of
+									Kepler,
+									K2,
+									and
+<<<<<<< HEAD
+									Gaia. We
+=======
+									Gaia;
+									I
+									finished
+									my
+									PhD
+									as
+									a
+									<a href="https://www.kitp.ucsb.edu/apply/fellowships/graduate-fellowship-program">KITP
+									Graduate
+									Fellow</a>. We
+>>>>>>> html5up first commit
+									simultaneously
+									characterized
+									Gaia
+									parallax
+									systematics
+									and
+									tested
+									asteroseismic
+									scaling
+									relations. I
+<<<<<<< HEAD
+=======
+									was
+									a
+									KITP
+									fellow
+									I
+>>>>>>> html5up first commit
+									received an
+									A.B. magna
+									cum
+									laude
+									from
+									Princeton
+									University
+									in
+									Astrophysical
+									Sciences,
+									where
+									I
+									worked
+									with
+									<a href="http://www.astro.princeton.edu/~strauss/index.html">Michael
+									Strauss</a>
+									on
+									identifying
+									AGN-galaxy
+									strong
+									lenses
+									in
+									SDSS;
+									<a href="http://web.astro.princeton.edu/people/j-richard-gott-iii">Richard
+									Gott</a>
+									on
+									predicting
+									Slow-Roll
+									dark
+									energy
+									constraints
+									with
+									Planck;
+									and
+									<a href="http://www.astro.princeton.edu/~dns/">David
+									Spergel</a>
+									on
+									AGN-galaxy
+									magnification
+									weak
+									lensing
+									in
+									WISE
+									and BOSS.
+								</div>
+							</section>
+
+						<!-- Three -->
+							<section id="three">
 								<div class="container">
 									<h3>Outreach</h3>
 									<p>I
 									am
 									currently
-									developing an
+									developing
+									a
+									creative,
 									inquiry-based
 									after
 									school
@@ -149,8 +280,8 @@
 								</div>
 							</section>
 
-						<!-- Three -->
-							<section id="three">
+						<!-- Four -->
+							<section id="four">
 								<div class="container">
 									<h3>Research projects</h3>
 									<!-- <p>Here are some of the projects I've worked on recently.</p> -->
@@ -162,13 +293,28 @@
 												Galactic
 												Archaeology
 												Program</h4>
-												<p>~20k
+												<p>K2
+												GAP
+												is
+												providing
+												19,000
 												asteroseismic
 												masses
 												and
 												radii
 												across
-												Galactic environment.</p>
+												Galactic
+												environment; <a href="https://ui.adsabs.harvard.edu/abs/2020ApJS..251...23Z/abstract"
+												style="color:#4acaa8;text-decoration:
+												none;">Data
+												Release 2</a>
+												provides
+												an
+												installment
+												of
+												4,000
+												asteroseismic
+												masses.</p>
 											</div>
 										</article>
 										<article>
@@ -176,7 +322,46 @@
 											<div class="inner">
 												<h4>Gaia
 												parallax systematics</h4>
-												<p></p>
+												<p>Gaia
+												Data
+												Release
+												1
+												parallaxes
+												have
+												significant,
+												small-scale
+												<a href="https://ui.adsabs.harvard.edu/abs/2017ApJ...844..166Z/abstract"
+												         style="color:#4acaa8;text-decoration:none;">spatial
+												correlations</a> and
+												         Gaia
+												         DR2
+												         parallaxes have
+												        a
+												         ~50
+												         microarcsecond
+												         <a href="https://ui.adsabs.harvard.edu/abs/2019ApJ...878..136Z/abstract"
+												         style="color:#4acaa8;text-decoration:none;">zero-point
+												         offset</a>
+												         on
+												         all
+												         scales,
+												         which
+												         I
+												         find
+												         decreases
+												         to
+												         at
+												         or below
+												         15
+												         microarcseconds
+												         in
+												         <a href="https://ui.adsabs.harvard.edu/abs/2021arXiv210107252Z/abstract"style="color:#4acaa8;text-decoration:none;">EDR3</a>,
+												         after applying
+												         the
+												         Gaia
+												         team's
+												         <a href="https://gitlab.com/icc-ub/public/gaiadr3_zeropoint/-/tree/master"style="color:#4acaa8;text-decoration:none;">zero-point corrections</a>.
+												         												          </p>
 											</div>
 										</article>
 										<article>
@@ -202,11 +387,25 @@
 												<h4>Accuracy
 												of
 												asteroseismology</h4>
-												<p>Asteroseismic
+												<p>By
+												comparing
+												Kepler
+												asteroseismic
 												radii
+												to
+												Gaia
+												radii,
+												we
+												find
+												asteroseismic
+												scaling relations
 												are
-												accurate
-												to 1-2%.</p>
+												<a href="https://ui.adsabs.harvard.edu/abs/2019ApJ...885..166Z/abstract"
+												style="color:#4acaa8;text-decoration: none;">accurate</a>
+												at
+												the
+												percent
+												level.</p>
 											</div>
 										</article>
 									</div>
